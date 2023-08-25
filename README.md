@@ -14,16 +14,16 @@
 	<tr>
 		<td>
 			<center>
-				<img src="https://img-blog.csdnimg.cn/293b792757c24b8caa1ffba18ce76831.jpg" width="60%" />
+				<img src=./images/color_failure/a black squirrel and a brown nut_0.711.png" width="60%" />
 				<br/>
-				<font color="AAAAAA">001.jpg</font>
+				<font color="AAAAAA">a black squirrel and a brown nut, BLIP-VQA score:0.711</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://img-blog.csdnimg.cn/f70c9b6462314611828f3349942b1227.jpg" width="60%" />
+				<img src="./images/color_failure/a brown boat and a blue cat_0.8719.png" width="60%" />
 				<br/>
-				<font color="AAAAAA">002.jpg</font>
+				<font color="AAAAAA">a brown boat and a blue cat, BLIP-VQA score: 0.8719</font>
 			</center>
 		</td>
 	</tr>
