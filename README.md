@@ -14,7 +14,7 @@
 	<tr>
 		<td>
 			<center>
-				<img src="./images/color_failure/a black squirrel and a brown nut_0.711.png" width="100%" />
+				<img src="./images/color_failure/a black squirrel and a brown nut_0.711.png" width="95%" />
 				<br/>
 				<font color="AAAAAA">a black squirrel and a brown nut, BLIP-VQA score:0.711</font>
 			</center>
