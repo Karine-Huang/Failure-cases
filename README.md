@@ -107,7 +107,7 @@
 	<tr>
 		<td>
 			<center>
-				<img src="./images/texture_failure/a leather chair and a glass cup_0.8768.png" width="99%" />
+				<img src="./images/texture_failure/a leather chair and a glass cup_0.8768.png" width="98%" />
 				<br/>
 				<font color="000000">a leather chair and a glass cup, BLIP-VQA score:0.8768</font>
 			</center>
@@ -129,11 +129,4 @@
 	</tr>
 </table>
 
-<table>
-    <tr>
-        <td ><center><img src="./images/texture_failure/a leather chair and a glass cup_0.8768.png" >a leather chair and a glass cup, BLIP-VQA score:0.8768 </center></td>
-        <td ><center><img src="./images/texture_failure/a metallic desk lamp and a fluffy blanket_0.8075.png"  >a metallic desk lamp and a fluffy blanket, BLIP-VQA score: 0.8075</center></td>
-        <td><center><img src="./images/texture_failure/a plastic chair and leather gloves_0.8516.png" >a plastic chair and leather gloves, BLIP-VQA score: 0.8516</center></td>
 
-    </tr>
-</table>
