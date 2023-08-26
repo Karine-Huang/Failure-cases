@@ -73,18 +73,19 @@
 		</td>
 		<td>
 			<center>
-				<img src="./images/shape_failure/a cubic block and a cylindrical bottle of water_0.2166.png" width="98%" />
-				<br/>
-				<font color="000000">a cubic block and a cylindrical bottle of water, BLIP-VQA score: 0.2166</font>
-			</center>
-		</td>
-		<td>
-			<center>
 				<img src="./images/shape_failure/a cubic block and a cylindrical bottle of water_0.2574.png" width="98%" />
 				<br/>
 				<font color="000000">a cubic block and a cylindrical bottle of water, BLIP-VQA score: 0.2574</font>
 			</center>
 		</td>
+		<td>
+			<center>
+				<img src="./images/shape_failure/a cubic block and a cylindrical bottle of water_0.2166.png" width="98%" />
+				<br/>
+				<font color="000000">a cubic block and a cylindrical bottle of water, BLIP-VQA score: 0.2166</font>
+			</center>
+		</td>
+
 	</tr>
 </table>
 
