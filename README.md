@@ -68,7 +68,7 @@
 		</td>
 		<td>
 			<center>
-				<img src="./images/shape_failure/a triangular slice of bread and a rectangular bread basket_0.7206.png" width="96%" />
+				<img src="./images/shape_failure/a triangular slice of bread and a rectangular bread basket_0.7206.png" width="94%" />
 				<br/>
 				<font color="000000">a triangular slice of bread and a rectangular bread basket, BLIP-VQA score: 0.7206</font>
 			</center>
