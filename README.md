@@ -7,6 +7,32 @@
 	<tr>
 		<td>
 			<center>
+				<img src="./images/color_failure/a brown boat and a blue cat_0.9618.png" width="95%" />
+				<br/>
+				<font color="000000">a brown boat and a blue cat, BLIP-VQA score:0.9618</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/color_failure/a brown boat and a blue cat_0.8719.png" width="100%" />
+				<br/>
+				<font color="000000">a brown boat and a blue cat, BLIP-VQA score: 0.8719</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/color_failure/a brown boat and a blue cat_0.9156.png" width="100%" />
+				<br/>
+				<font color="000000">a brown boat and a blue cat, BLIP-VQA score: 0.9156</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
 				<img src="./images/color_failure/a black squirrel and a brown nut_0.711.png" width="95%" />
 				<br/>
 				<font color="000000">a black squirrel and a brown nut, BLIP-VQA score:0.711</font>
@@ -29,31 +55,7 @@
 	</tr>
 </table>
 
-<table rules="none" align="center">
-	<tr>
-		<td>
-			<center>
-				<img src="./images/color_failure/a brown boat and a blue cat_0.9618.png" width="95%" />
-				<br/>
-				<font color="000000">a brown boat and a blue cat, BLIP-VQA score:0.9618</font>
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="./images/color_failure/a brown boat and a blue cat_0.8719.png" width="100%" />
-				<br/>
-				<font color="000000">a brown boat and a blue cat, BLIP-VQA score: 0.8719</font>
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="./images/color_failure/a brown boat and a blue cat_0.9156.png" width="100%" />
-				<br/>
-				<font color="000000">a brown boat and a blue cat, BLIP-VQA score: 0.9156</font>
-			</center>
-		</td>
-	</tr>
-</table>
+
 
 
 
