@@ -125,11 +125,12 @@
 		</td>
 		<td>
 			<center>
-				<img src="./images/texture_failure/a metallic desk lamp and a fluffy blanket_0.8075.png" width="99%" />
+				<img src="./images/texture_failure/a plastic toy and a metallic jewelry_0.7734.png" width="96%" />
 				<br/>
-				<font color="000000">a metallic desk lamp and a fluffy blanket, BLIP-VQA score: 0.8075</font>
+				<font color="000000">a plastic toy and a metallic jewelry, BLIP-VQA score:0.7734</font>
 			</center>
 		</td>
+
 		<td>
 			<center>
 				<img src="./images/texture_failure/a plastic chair and leather gloves_0.8516.png" width="100%" />
@@ -139,5 +140,33 @@
 		</td>
 	</tr>
 </table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="./images/texture_failure/a metallic desk lamp and a fluffy blanket_0.8426.png" width="96%" />
+				<br/>
+				<font color="000000">a metallic desk lamp and a fluffy blanket, BLIP-VQA score:0.8426</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/texture_failure/a metallic desk lamp and a fluffy blanket_0.8075.png" width="99%" />
+				<br/>
+				<font color="000000">a metallic desk lamp and a fluffy blanket, BLIP-VQA score: 0.8075</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/texture_failure/a metallic desk lamp and a fluffy blanket_0.9262.png" width="100%" />
+				<br/>
+				<font color="000000">a metallic desk lamp and a fluffy blanket, BLIP-VQA score: 0.9262</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+
 
 
