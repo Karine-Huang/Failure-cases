@@ -9,21 +9,21 @@
 			<center>
 				<img src="./images/color_failure/a black squirrel and a brown nut_0.711.png" width="95%" />
 				<br/>
-				<font color="AAAAAA">a black squirrel and a brown nut, BLIP-VQA score:0.711</font>
+				<font color="000000">a black squirrel and a brown nut, BLIP-VQA score:0.711</font>
 			</center>
 		</td>
 		<td>
 			<center>
 				<img src="./images/color_failure/a brown boat and a blue cat_0.8719.png" width="100%" />
 				<br/>
-				<font color="AAAAAA">a brown boat and a blue cat, BLIP-VQA score: 0.8719</font>
+				<font color="000000">a brown boat and a blue cat, BLIP-VQA score: 0.8719</font>
 			</center>
 		</td>
 		<td>
 			<center>
 				<img src="./images/color_failure/a red bowl and a blue train_0.9287.png" width="100%" />
 				<br/>
-				<font color="AAAAAA">a red bowl and a blue train, BLIP-VQA score: 0.9287</font>
+				<font color="000000">a red bowl and a blue train, BLIP-VQA score: 0.9287</font>
 			</center>
 		</td>
 	</tr>
