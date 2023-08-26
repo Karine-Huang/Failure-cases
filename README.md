@@ -1,6 +1,4 @@
 
-# Failure cases
-
 ## color
 
 <table rules="none" align="center">
