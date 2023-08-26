@@ -2,13 +2,6 @@
 # Failure cases
 
 ## color
-<table>
-    <tr>
-        <td ><center><img src="./images/color_failure/a black squirrel and a brown nut_0.711.png" >a black squirrel and a brown nut, BLIP-VQA score:0.711 </center></td>
-        <td ><center><img src="./images/color_failure/a brown boat and a blue cat_0.8719.png"  >a brown boat and a blue cat, BLIP-VQA score: 0.8719</center></td>
-        <td><center><img src="./images/color_failure/a red bowl and a blue train_0.9287.png" >a red bowl and a blue train, BLIP-VQA score: 0.9287</center></td>
-    </tr>
-</table>
 
 <table rules="none" align="center">
 	<tr>
@@ -39,6 +32,58 @@
 
 
 ## shape
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="./images/shape_failure/a big pig and a small mouse_0.231.png" width="100%" />
+				<br/>
+				<font color="000000">a big pig and a small mouse, BLIP-VQA score:0.231</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/shape_failure/a cubic block and a cylindrical bottle of water_0.2166.png" width="98%" />
+				<br/>
+				<font color="000000">a cubic block and a cylindrical bottle of water, BLIP-VQA score: 0.2166</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/shape_failure/a cubic block and a cylindrical bottle of water_0.2574.png" width="100%" />
+				<br/>
+				<font color="000000">a cubic block and a cylindrical bottle of water, BLIP-VQA score: 0.2574</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="./images/shape_failure/a pentagonal stop sign and a pyramidal sculpture_0.637.png" width="100%" />
+				<br/>
+				<font color="000000">a pentagonal stop sign and a pyramidal sculpture, BLIP-VQA score:0.637</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/shape_failure/a triangular slice of bread and a rectangular bread basket_0.7206.png" width="98%" />
+				<br/>
+				<font color="000000">a triangular slice of bread and a rectangular bread basket, BLIP-VQA score: 0.7206</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/shape_failure/an oblong carrot and a teardrop plum_0.0092.png" width="100%" />
+				<br/>
+				<font color="000000">an oblong carrot and a teardrop plum, BLIP-VQA score: 0.0092</font>
+			</center>
+		</td>
+	</tr>
+</table>
 
 <table>
     <tr>
