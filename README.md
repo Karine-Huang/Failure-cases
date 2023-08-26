@@ -103,6 +103,32 @@
 
 ## texture
 
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="./images/texture_failure/a leather chair and a glass cup_0.8768.png" width="99%" />
+				<br/>
+				<font color="000000">a leather chair and a glass cup, BLIP-VQA score:0.8768</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/texture_failure/a metallic desk lamp and a fluffy blanket_0.8075.png" width="99%" />
+				<br/>
+				<font color="000000">a metallic desk lamp and a fluffy blanket, BLIP-VQA score: 0.8075</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="./images/texture_failure/a plastic chair and leather gloves_0.8516.png" width="100%" />
+				<br/>
+				<font color="000000">a plastic chair and leather gloves, BLIP-VQA score: 0.8516</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
 <table>
     <tr>
         <td ><center><img src="./images/texture_failure/a leather chair and a glass cup_0.8768.png" >a leather chair and a glass cup, BLIP-VQA score:0.8768 </center></td>
