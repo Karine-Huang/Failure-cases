@@ -16,7 +16,7 @@
 			<center>
 				<img src="./images/color_failure/a blue backpack and a red book_0.6504.png" width="100%" />
 				<br/>
-				<font color="000000">a brown boat and a blue cat, BLIP-VQA score: 0.6504</font>
+				<font color="000000">a blue backpack and a red book, BLIP-VQA score: 0.6504</font>
 			</center>
 		</td>
 		<td>
